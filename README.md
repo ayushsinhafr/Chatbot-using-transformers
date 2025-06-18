@@ -17,7 +17,7 @@ special_tokens_map.json
 and other tokenizer/model config files.
 
 3.Folder Structure in vs code
-.
+
 ├── chatbot/                  # Contains the tokenizer and model files which was downloaded after running that ipynb file
 ├── static/                   # Static files (CSS/JS if any)
 ├── templates/                # HTML templates for the Flask app              
