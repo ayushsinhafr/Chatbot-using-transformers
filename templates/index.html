@@ -1,0 +1,255 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MediBot - Your Trusted Medical Partner</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom animations */
+        @keyframes slideIn {
+            from { transform: translateY(20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+        .animate-slide-in {
+            animation: slideIn 0.5s ease-out forwards;
+        }
+        /* Chat scrollbar */
+        #chat-messages::-webkit-scrollbar {
+            width: 6px;
+        }
+        #chat-messages::-webkit-scrollbar-thumb {
+            background: #8b5cf6;
+            border-radius: 3px;
+        }
+        /* Typing indicator animation */
+        @keyframes typing {
+            0% { opacity: 0.3; }
+            50% { opacity: 1; }
+            100% { opacity: 0.3; }
+        }
+        .typing-dot {
+            animation: typing 1s infinite;
+            animation-delay: var(--delay);
+        }
+        /* Glassmorphism effect */
+        .glass {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        /* Fallback for broken images */
+        .image-fallback {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #f3f4f6;
+            color: #6b7280;
+            font-size: 14px;
+            text-align: center;
+            height: 100%;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 font-sans">
+    <!-- Navbar -->
+    <nav class="bg-blue-600 text-white p-4 sticky top-0 z-50 shadow-lg">
+        <div class="container mx-auto flex justify-between items-center">
+            <div class="text-2xl font-bold flex items-center gap-2">
+                <span>🩺</span> MediBot
+            </div>
+            <div class="hidden md:flex space-x-6">
+                <a href="#" class="hover:text-blue-200 transition">Home</a>
+                <a href="#" class="hover:text-blue-200 transition">About</a>
+                <a href="#" class="hover:text-blue-200 transition">Contact</a>
+                <a href="#" class="hover:text-blue-200 transition flex items-center gap-2">
+                    <span>🛒</span> Cart
+                </a>
+            </div>
+            <button id="menu-toggle" class="md:hidden text-2xl">☰</button>
+        </div>
+        <div id="mobile-menu" class="hidden md:hidden bg-blue-700 p-4">
+            <a href="#" class="block py-2 hover:text-blue-200 transition">Home</a>
+            <a href="#" class="block py-2 hover:text-blue-200 transition">About</a>
+            <a href="#" class="block py-2 hover:text-blue-200 transition">Contact</a>
+            <a href="#" class="block py-2 hover:text-blue-200 transition flex items-center gap-2">
+                <span>🛒</span> Cart
+            </a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="bg-gradient-to-r from-blue-100 to-blue-200 py-16 text-center">
+        <div class="container mx-auto px-4">
+            <h1 class="text-4xl md:text-5xl font-bold text-gray-800 mb-4 animate-slide-in">
+                Your Trusted Online Medical Partner
+            </h1>
+            <p class="text-lg md:text-xl text-gray-600 mb-8 animate-slide-in" style="animation-delay: 0.2s;">
+                Fast delivery, affordable prices, and expert support
+            </p>
+            <a href="#products" class="bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition">
+                Shop Now
+            </a>
+        </div>
+    </section>
+
+    <!-- Product Section -->
+    <section id="products" class="py-16 bg-white">
+  <div class="container mx-auto px-4">
+    <h2 class="text-3xl font-bold text-center text-gray-800 mb-8">Available Medicines</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Product Cards (Updated paths) -->
+      <div class="bg-white rounded-lg shadow-lg p-6 animate-slide-in">
+        <img src="static/images/para.png" alt="Paracetamol" class="w-full h-40 object-contain mb-4" />
+        <h3 class="text-xl font-semibold text-gray-800">Paracetamol 500mg</h3>
+        <p class="text-gray-600">Relieves fever and pain</p>
+        <button class="mt-4 bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition">Add to Cart</button>
+      </div>
+      <div class="bg-white rounded-lg shadow-lg p-6 animate-slide-in">
+        <img src="static/images/ibuprofen.png" alt="Ibuprofen" class="w-full h-40 object-contain mb-4" />
+        <h3 class="text-xl font-semibold text-gray-800">Ibuprofen 200mg</h3>
+        <p class="text-gray-600">Anti-inflammatory pain reliever</p>
+        <button class="mt-4 bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition">Add to Cart</button>
+      </div>
+      <div class="bg-white rounded-lg shadow-lg p-6 animate-slide-in">
+        <img src="static/images/cro.png" alt="Crocin" class="w-full h-40 object-contain mb-4" />
+        <h3 class="text-xl font-semibold text-gray-800">Crocin Advance</h3>
+        <p class="text-gray-600">Effective against headache & cold</p>
+        <button class="mt-4 bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition">Add to Cart</button>
+      </div>
+      <div class="bg-white rounded-lg shadow-lg p-6 animate-slide-in">
+        <img src="static/images/azithral.webp" alt="Azithral" class="w-full h-40 object-contain mb-4" />
+        <h3 class="text-xl font-semibold text-gray-800">Azithral 500mg</h3>
+        <p class="text-gray-600">Antibiotic for infections</p>
+        <button class="mt-4 bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition">Add to Cart</button>
+      </div>
+      <div class="bg-white rounded-lg shadow-lg p-6 animate-slide-in">
+        <img src="static/images/dolo.jpg" alt="Dolo" class="w-full h-40 object-contain mb-4" />
+        <h3 class="text-xl font-semibold text-gray-800">Dolo 650</h3>
+        <p class="text-gray-600">Paracetamol for high fever</p>
+        <button class="mt-4 bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition">Add to Cart</button>
+      </div>
+      <div class="bg-white rounded-lg shadow-lg p-6 animate-slide-in">
+        <img src="static/images/calpol.webp" alt="Calpol" class="w-full h-40 object-contain mb-4" />
+        <h3 class="text-xl font-semibold text-gray-800">Calpol 650mg</h3>
+        <p class="text-gray-600">Pain relief tablet</p>
+        <button class="mt-4 bg-green-500 text-white px-4 py-2 rounded-full hover:bg-green-600 transition">Add to Cart</button>
+      </div>
+    </div>
+  </div>
+</section>
+
+    <!-- Chatbot -->
+    <div id="chatbot-icon" class="fixed bottom-6 right-6 w-14 h-14 bg-gradient-to-r from-purple-600 to-blue-600 rounded-full flex items-center justify-center text-white text-2xl cursor-pointer shadow-lg hover:shadow-xl transition transform hover:scale-110 z-50">
+        💬
+    </div>
+    <div id="chat-window" class="hidden fixed bottom-20 right-6 w-80 sm:w-96 max-h-[600px] glass rounded-xl flex flex-col z-50 animate-slide-in">
+        <div id="chat-header" class="bg-gradient-to-r from-purple-600 to-blue-600 text-white p-3 rounded-t-xl flex items-center justify-between">
+            <div class="flex items-center gap-2">
+                <span class="text-xl">🩺</span>
+                <span class="font-semibold text-base">MediBot AI</span>
+            </div>
+            <button id="close-chat" class="text-white hover:text-gray-200 transition text-sm">✕</button>
+        </div>
+        <div id="chat-messages" class="flex-1 p-3 overflow-y-auto bg-transparent"></div>
+        <div id="chat-input" class="flex p-3 bg-transparent border-t border-gray-200/30">
+            <input id="user-message" type="text" placeholder="Ask a medical query..." class="flex-1 p-2 bg-white/80 backdrop-blur-sm border border-gray-300/50 rounded-l-lg focus:outline-none focus:ring-2 focus:ring-purple-500 transition text-sm">
+            <button id="send-button" class="bg-gradient-to-r from-purple-600 to-blue-600 text-white px-3 py-2 rounded-r-lg hover:from-purple-700 hover:to-blue-700 transition text-sm">Send</button>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('chatbot-icon').addEventListener('click', () => {
+            const chatWindow = document.getElementById('chat-window');
+            chatWindow.classList.toggle('hidden');
+        });
+
+        document.getElementById('close-chat').addEventListener('click', () => {
+            document.getElementById('chat-window').classList.add('hidden');
+        });
+
+        document.getElementById('send-button').addEventListener('click', sendMessage);
+        document.getElementById('user-message').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') sendMessage();
+        });
+
+        document.getElementById('menu-toggle').addEventListener('click', () => {
+            const mobileMenu = document.getElementById('mobile-menu');
+            mobileMenu.classList.toggle('hidden');
+        });
+
+        async function sendMessage() {
+            const input = document.getElementById('user-message');
+            const chatMessages = document.getElementById('chat-messages');
+            const message = input.value.trim();
+            if (!message) return;
+
+            // Add user message
+            const userBubble = document.createElement('div');
+            userBubble.className = 'flex items-start gap-2 p-2 mb-2 justify-end';
+            userBubble.innerHTML = `
+                <div class="bg-purple-100 p-2 rounded-lg max-w-[75%] text-sm shadow-sm">
+                    ${message}
+                </div>
+                <div class="w-6 h-6 rounded-full bg-purple-600 flex items-center justify-center text-white text-xs font-semibold">U</div>
+            `;
+            chatMessages.appendChild(userBubble);
+
+            // Add typing indicator
+            const typingIndicator = document.createElement('div');
+            typingIndicator.className = 'flex items-center gap-1 p-2 mb-2';
+            typingIndicator.innerHTML = `
+                <div class="w-6 h-6 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-semibold">B</div>
+                <div class="bg-gray-200/80 backdrop-blur-sm p-2 rounded-lg">
+                    <span class="typing-dot inline-block w-1.5 h-1.5 bg-blue-600 rounded-full" style="--delay: 0s;"></span>
+                    <span class="typing-dot inline-block w-1.5 h-1.5 bg-blue-600 rounded-full ml-1" style="--delay: 0.2s;"></span>
+                    <span class="typing-dot inline-block w-1.5 h-1.5 bg-blue-600 rounded-full ml-1" style="--delay: 0.4s;"></span>
+                </div>
+            `;
+            chatMessages.appendChild(typingIndicator);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+
+            try {
+                const res = await fetch('/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message })
+                });
+                const data = await res.json();
+
+                // Remove typing indicator
+                typingIndicator.remove();
+
+                // Add bot response
+                const botBubble = document.createElement('div');
+                botBubble.className = 'flex items-start gap-2 p-2 mb-2';
+                botBubble.innerHTML = `
+                    <div class="w-6 h-6 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-semibold">B</div>
+                    <div class="bg-white/80 backdrop-blur-sm p-2 rounded-lg max-w-[75%] text-sm shadow-sm">
+                        ${data.response}
+                    </div>
+                `;
+                chatMessages.appendChild(botBubble);
+            } catch (err) {
+                // Remove typing indicator
+                typingIndicator.remove();
+
+                // Add error message
+                const errorBubble = document.createElement('div');
+                errorBubble.className = 'flex items-start gap-2 p-2 mb-2';
+                errorBubble.innerHTML = `
+                    <div class="w-6 h-6 rounded-full bg-red-600 flex items-center justify-center text-white text-xs font-semibold">B</div>
+                    <div class="bg-red-100/80 backdrop-blur-sm p-2 rounded-lg max-w-[75%] text-sm shadow-sm">
+                        Sorry, something went wrong.
+                    </div>
+                `;
+                chatMessages.appendChild(errorBubble);
+            }
+
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+            input.value = '';
+        }
+    </script>
+</body>
+</html>

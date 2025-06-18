@@ -1,0 +1,464 @@
+query,response,intent,domain
+"How do I check if my prescription refill is ready?","Log into your account and check the 'Prescription Status' page or contact our pharmacy team.",prescription status inquiry,healthcare
+"What is the recommended dosage for amoxicillin 500mg?","Take one amoxicillin 500mg capsule every 8 hours for the prescribed duration. Consult your doctor for specific guidance.",dosage inquiry,healthcare
+"Is the digital thermometer model DT-100 available?","Check the DT-100 thermometer availability on our website or contact support for stock updates.",product availability inquiry,healthcare
+"How can I return a faulty pulse oximeter?","Initiate a return for a faulty pulse oximeter via the 'Returns' section on our website within 30 days.",product return inquiry,finance
+"Can I use my HSA to pay for medical supplies?","Yes, HSA payments are accepted for eligible medical supplies. Verify at checkout or contact support.",HSA payment inquiry,finance
+"What are the side effects of atorvastatin?","Common side effects of atorvastatin include muscle pain, nausea, and headache. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I track my order of compression socks?","Use the tracking link in your order confirmation email or check the 'Order Tracking' page in your account.",order tracking inquiry,finance
+"Are there discounts for buying bandages in bulk?","Bulk bandage purchases may qualify for discounts. Visit the 'Promotions' page for current offers.",discount inquiry,finance
+"What if I received an incorrect dosage of my medication?","Contact our pharmacy team immediately to report the issue, and we’ll arrange a correction or replacement.",wrong dosage inquiry,healthcare
+"Can I book a virtual consultation with a nurse?","Schedule a virtual nurse consultation through our website’s ‘Consultations’ section.",consultation booking,healthcare
+"How do I cancel my vitamin subscription plan?","Cancel your vitamin subscription in the ‘Subscriptions’ tab of your account or contact support.",subscription cancellation,finance
+"Does this allergy medication contain dairy?","Check the product label for allergen information or consult our pharmacists via the website.",allergy inquiry,healthcare
+"What payment options are available for prescriptions?","We accept credit cards, PayPal, and insurance for prescriptions. See options at checkout.",payment method inquiry,finance
+"How long does shipping take for medical equipment?","Medical equipment typically ships within 2-5 business days. Check your order details for estimated delivery.",delivery time inquiry,finance
+"Can I get a refund for an unopened syringe pack?","Unopened syringe packs are refundable within 30 days. Start a return request on our website.",refund inquiry,finance
+"How should I store my blood pressure medication?","Store blood pressure medication at room temperature, away from moisture. Check the label for details.",storage inquiry,healthcare
+"How do I change the delivery address for my order?","Update your delivery address in ‘Account Settings’ before the order ships or contact support.",address update inquiry,finance
+"Are your glucose test strips compatible with my meter?","Verify compatibility in the product description or contact our support team with your meter model.",product compatibility inquiry,healthcare
+"What should I do if my medication causes nausea?","If nausea occurs, consult your doctor immediately and consider taking the medication with food.",adverse reaction inquiry,healthcare
+"Can I split my order payment across two cards?","Split payments are not currently supported, but you can use one card or PayPal at checkout.",split payment inquiry,finance
+"Will this pain reliever interact with my antidepressants?","Use our drug interaction checker tool or consult your doctor before combining medications.",drug interaction inquiry,healthcare
+"Is there an app for managing my prescriptions?","Yes, our mobile app on the App Store or Google Play lets you manage prescriptions easily.",app inquiry,finance
+"What’s the expiration date for this eye drop solution?","Check the packaging for the expiration date or contact our pharmacy for assistance.",product shelf life inquiry,healthcare
+"How do I apply a discount code to my cart?","Enter the discount code in the ‘Promo Code’ field at checkout to apply savings.",coupon code inquiry,finance
+"Can I replace a broken nebulizer under warranty?","Contact support with your order details to process a warranty replacement for a broken nebulizer.",product replacement inquiry,finance
+"What are the benefits of omega-3 supplements?","Omega-3 supplements support heart and brain health. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I recover my account if I forgot my password?","Click ‘Forgot Password’ on the login page and follow the steps to reset your password.",password reset inquiry,finance
+"Can you ship my order to a PO box?","Yes, we ship to PO boxes. Enter the address at checkout or update your profile.",delivery address inquiry,finance
+"What should I do if my order hasn’t arrived yet?","Check your tracking link or contact support if your order is delayed beyond the estimated delivery date.",order delay inquiry,finance
+"Are your surgical masks hypoallergenic?","Most surgical masks are hypoallergenic. Check product details or contact support for confirmation.",product allergy inquiry,healthcare
+"How do I know if my insurance covers this inhaler?","Verify insurance coverage at checkout or contact our support team with your plan details.",insurance coverage inquiry,finance
+"What is the return policy for opened medical devices?","Opened medical devices may not be returnable unless defective. Check our return policy or contact support.",return policy inquiry,finance
+"Can I get a prescription filled without a doctor’s visit?","A valid prescription is required. Upload it on our website or consult your doctor.",prescription requirement inquiry,healthcare
+"How do I reorder my monthly diabetes supplies?","Reorder diabetes supplies via the ‘Reorder’ option in your account or set up auto-refills.",reorder inquiry,finance
+"What are the ingredients in this cough syrup?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"Can I expedite shipping for my order?","Expedited shipping is available at checkout. Select your preferred option for faster delivery.",expedited shipping inquiry,finance
+"What should I do if my medication is recalled?","If your medication is recalled, stop using it and contact our pharmacy for replacement or refund instructions.",medication recall inquiry,healthcare
+"How do I update my payment method for subscriptions?","Update your payment method in the ‘Subscriptions’ section of your account or contact support.",payment update inquiry,finance
+"Are your crutches adjustable for height?","Yes, our crutches are height-adjustable. Check product specs for adjustment ranges.",product specification inquiry,healthcare
+"Can I get a sample of this skincare product?","Samples are not available, but we offer a satisfaction guarantee. Contact support for details.",product sample inquiry,healthcare
+"How do I check my order history?","View your order history by logging into your account and visiting the ‘Order History’ page.",order history inquiry,finance
+"What are the side effects of this nasal spray?","Common side effects include nasal irritation or dryness. Consult your doctor if symptoms worsen.",side effects inquiry,healthcare
+"Can I pay with a gift card on your website?","Gift cards are accepted. Enter the card details at checkout to apply the balance.",gift card payment inquiry,finance
+"How do I know if a product is FSA-eligible?","FSA-eligible products are marked on our website. Check product details or contact support.",FSA eligibility inquiry,finance
+"What’s the proper way to use a nebulizer?","Follow the instructions in the product manual or consult our pharmacists for guidance.",product usage inquiry,healthcare
+"How do I contact customer support for a billing issue?","Reach customer support via the ‘Contact Us’ page or call our helpline for billing issues.",billing support inquiry,finance
+"Are there any warnings for this sleep aid?","Check the product label for warnings, such as avoiding alcohol. Consult a pharmacist if unsure.",product warning inquiry,healthcare
+"Can I schedule recurring deliveries for my supplements?","Set up recurring deliveries in the ‘Subscriptions’ section during checkout or in your account.",subscription setup inquiry,finance
+"What should I do if my order was damaged during shipping?","Report damaged orders to support within 7 days for a replacement or refund.",damaged order inquiry,finance
+"How do I find out if a medication is in stock?","Check stock status on the product page or contact our pharmacy team for real-time updates.",product availability inquiry,healthcare
+"Can I use a promo code on sale items?","Some promo codes apply to sale items. Check the code’s terms at checkout or contact support.",promo code inquiry,finance
+"What are the benefits of this probiotic supplement?","Probiotics support gut health and immunity. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I delete my account?","To delete your account, contact support through the ‘Contact Us’ page with your request.",account deletion inquiry,finance
+"Can I get a prescription transferred to your pharmacy?","Yes, submit a transfer request via our website or contact our pharmacy team.",prescription transfer inquiry,healthcare
+"How do I know if my order qualifies for free shipping?","Orders over $50 qualify for free shipping. Check your cart at checkout for eligibility.",free shipping inquiry,finance
+"What should I do if I’m allergic to this medication?","Stop taking the medication and consult your doctor immediately if you suspect an allergy.",allergic reaction inquiry,healthcare
+"Can I pay with cryptocurrency for my order?","Cryptocurrency is not accepted at this time. Use credit cards or PayPal instead.",payment method inquiry,finance
+"How do I check the status of my refund?","Track your refund status in the ‘Returns’ section of your account or contact support.",refund status inquiry,finance
+"Are your wheelchairs foldable for travel?","Most wheelchairs are foldable. Check product specs for travel-friendly features.",product specification inquiry,healthcare
+"What’s the dosage for this children’s cough syrup?","Follow the dosage instructions on the label based on age/weight or consult a pediatrician.",dosage inquiry,healthcare
+"How do I report a problem with my order?","Report order issues via the ‘Contact Us’ page or call our support line for assistance.",order issue inquiry,finance
+"Can I get a discount for a first-time purchase?","First-time buyers may qualify for a discount. Check the ‘Promotions’ page for current offers.",discount inquiry,finance
+"What are the storage requirements for this vaccine?","Store vaccines at 2-8°C in a refrigerator. Check the label for specific instructions.",storage inquiry,healthcare
+"How do I update my email address?","Update your email in the ‘Account Settings’ section or contact support for help.",email update inquiry,finance
+"Can I get a consultation about my medication side effects?","Schedule a consultation with our pharmacists via the ‘Consultations’ page.",consultation booking,healthcare
+"What should I do if my order is missing items?","Report missing items to support within 7 days for a replacement or refund.",missing items inquiry,finance
+"Are your bandages waterproof?","Many bandages are waterproof. Check product details for specific features.",product specification inquiry,healthcare
+"How do I apply for a loyalty program?","Join our loyalty program by signing up on the ‘Rewards’ page in your account.",loyalty program inquiry,finance
+"What are the side effects of this antihistamine?","Common side effects include drowsiness and dry mouth. Consult your doctor if severe.",side effects inquiry,healthcare
+"Can I use my insurance for over-the-counter products?","Some OTC products are insurance-eligible. Verify coverage at checkout or contact support.",insurance coverage inquiry,finance
+"How do I track a backordered item?","Check backorder status in your account or contact support for updates on availability.",backorder tracking inquiry,finance
+"What’s the proper way to use an inhaler?","Follow the inhaler instructions in the product manual or consult a pharmacist.",product usage inquiry,healthcare
+"Can I get a refund for a prescription I didn’t use?","Unopened prescriptions may be refundable. Contact our pharmacy for return instructions.",refund inquiry,finance
+"How do I know if this supplement is vegan?","Check the product page for vegan certification or contact support for confirmation.",product specification inquiry,healthcare
+"Can I change my delivery date?","Update your delivery date in the ‘Order Details’ section before shipping or contact support.",delivery date change inquiry,finance
+"What should I do if my medication tastes unusual?","Stop taking the medication and contact our pharmacy to report the issue.",medication quality inquiry,healthcare
+"How do I sign up for email notifications?","Sign up for email notifications in the ‘Account Settings’ section or during checkout.",email signup inquiry,finance
+"Are there any interactions with this herbal supplement?","Consult your doctor or use our drug interaction tool before taking herbal supplements.",drug interaction inquiry,healthcare
+"Can I get a replacement for a lost order?","Report a lost order to support for a replacement or refund, subject to investigation.",lost order inquiry,finance
+"What’s the shelf life of this antiseptic cream?","Check the packaging for the expiration date or contact our pharmacy for details.",product shelf life inquiry,healthcare
+"How do I check my reward points balance?","View your reward points in the ‘Rewards’ section of your account.",reward points inquiry,finance
+"Can I get a prescription filled for my pet?","Yes, upload a valid pet prescription on our website or contact our pharmacy.",pet prescription inquiry,healthcare
+"What are the benefits of this joint supplement?","Joint supplements support mobility and reduce stiffness. See product details for benefits.",product benefits inquiry,healthcare
+"How do I opt out of promotional emails?","Unsubscribe from promotional emails via the link in any email or update your preferences in your account.",email opt-out inquiry,finance
+"Can I get expedited shipping for urgent medications?","Select expedited shipping at checkout for faster delivery of urgent medications.",expedited shipping inquiry,finance
+"What should I do if my order was charged incorrectly?","Contact support with your order details to resolve incorrect charges.",billing error inquiry,finance
+"Are your thermometers safe for infants?","Our thermometers are infant-safe. Check product details for age recommendations.",product safety inquiry,healthcare
+"How do I verify my insurance plan?","Verify your insurance plan by entering details at checkout or contacting support.",insurance verification inquiry,finance
+"Can I get a consultation for over-the-counter products?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for OTC guidance.",consultation booking,healthcare
+"What’s the return policy for custom orthotics?","Custom orthotics are non-returnable unless defective. Check our return policy for details.",return policy inquiry,finance
+"How do I reorder my contact lenses?","Reorder contact lenses via the ‘Reorder’ option in your account or upload a new prescription.",reorder inquiry,finance
+"What are the ingredients in this pain relief gel?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"Can I pay with a check for my order?","Checks are not accepted. Use credit cards, PayPal, or digital wallets at checkout.",payment method inquiry,finance
+"How do I know if a product is covered by my FSA?","FSA-eligible products are marked on our website. Contact support for confirmation.",FSA eligibility inquiry,finance
+"What should I do if my medication causes a rash?","Stop taking the medication and consult your doctor immediately if a rash occurs.",adverse reaction inquiry,healthcare
+"How do I track my subscription shipments?","Track subscription shipments in the ‘Subscriptions’ section of your account or via email links.",subscription tracking inquiry,finance
+"Are your crutches covered by insurance?","Some crutches are insurance-eligible. Verify coverage at checkout or contact support.",insurance coverage inquiry,finance
+"Can I get a refund for a canceled order?","Canceled orders are fully refundable before shipping. Contact support to process.",refund inquiry,finance
+"What’s the proper way to store insulin pens?","Store insulin pens at 2-8°C in a refrigerator. Check the label for specific instructions.",storage inquiry,healthcare
+"How do I update my billing address?","Update your billing address in the ‘Account Settings’ section or contact support.",billing address update inquiry,finance
+"Can I get a discount for referring a friend?","Refer-a-friend discounts are available. Check the ‘Rewards’ page for details.",referral discount inquiry,finance
+"What are the side effects of this migraine medication?","Common side effects include dizziness and fatigue. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I check if a product is in stock at a local store?","Check local store stock on the product page or contact our support team.",local stock inquiry,healthcare
+"Can I use a promo code on a subscription?","Some promo codes apply to subscriptions. Check the code’s terms at checkout.",promo code inquiry,finance
+"What’s the dosage for this antacid tablet?","Take one antacid tablet as needed, up to 4 times daily. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I report a website issue?","Report website issues via the ‘Contact Us’ page or call our support line.",website issue inquiry,finance
+"Are your glucose meters Bluetooth-enabled?","Some glucose meters are Bluetooth-enabled. Check product specs for details.",product specification inquiry,healthcare
+"Can I get a replacement for a defective syringe?","Contact support to arrange a replacement for a defective syringe within 30 days.",product replacement inquiry,finance
+"What should I do if my order was shipped to the wrong address?","Contact support immediately to report a wrong shipping address for resolution.",wrong address inquiry,finance
+"How do I sign up for auto-refills?","Set up auto-refills during checkout or in the ‘Subscriptions’ section of your account.",auto-refill setup inquiry,finance
+"Can I get a consultation about supplement safety?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for supplement advice.",consultation booking,healthcare
+"What are the benefits of this vitamin D supplement?","Vitamin D supports bone health and immunity. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I check my gift card balance?","Check your gift card balance in the ‘Gift Cards’ section of your account or contact support.",gift card balance inquiry,finance
+"Can I get a prescription filled for a family member?","Yes, upload a valid prescription for a family member on our website or contact our pharmacy.",family prescription inquiry,healthcare
+"What’s the return policy for opened supplements?","Opened supplements are non-returnable unless defective. Check our return policy for details.",return policy inquiry,finance
+"How do I know if this medication is gluten-free?","Check the product page for gluten-free certification or contact our pharmacy team.",product specification inquiry,healthcare
+"Can I pay with Apple Pay for my order?","Yes, Apple Pay is accepted. Select it at checkout to complete your purchase.",payment method inquiry,finance
+"What should I do if my inhaler is defective?","Contact support to report a defective inhaler for a replacement or refund.",product defect inquiry,finance
+"How do I track my loyalty program rewards?","Track loyalty rewards in the ‘Rewards’ section of your account.",loyalty rewards inquiry,finance
+"Are your bandages suitable for sensitive skin?","Many bandages are designed for sensitive skin. Check product details for confirmation.",product specification inquiry,healthcare
+"Can I get a refund for an expired product?","Expired products are refundable. Contact support to initiate a return.",refund inquiry,finance
+"What’s the proper way to use a blood pressure monitor?","Follow the instructions in the product manual or consult our pharmacists for guidance.",product usage inquiry,healthcare
+"How do I update my phone number?","Update your phone number in the ‘Account Settings’ section or contact support.",phone update inquiry,finance
+"Can I get a discount for bulk medical supply orders?","Bulk medical supply orders may qualify for discounts. Check the ‘Promotions’ page for offers.",discount inquiry,finance
+"What are the side effects of this anti-inflammatory drug?","Common side effects include stomach upset and dizziness. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I check if my order has shipped?","Check your order status in the ‘Order Tracking’ section or via the email confirmation link.",order status inquiry,finance
+"Can I use a coupon on clearance items?","Some coupons apply to clearance items. Check the coupon’s terms at checkout.",coupon code inquiry,finance
+"What’s the storage requirement for this eye ointment?","Store eye ointment at room temperature, away from heat. Check the label for details.",storage inquiry,healthcare
+"How do I report a missing prescription?","Report a missing prescription to our pharmacy team via the ‘Contact Us’ page.",missing prescription inquiry,healthcare
+"Are your thermometers FDA-approved?","Yes, our thermometers are FDA-approved. Check product details for certifications.",product certification inquiry,healthcare
+"Can I get a replacement for a lost gift card?","Contact support with your order details to request a replacement for a lost gift card.",gift card replacement inquiry,finance
+"What should I do if my medication causes drowsiness?","If drowsiness occurs, consult your doctor and avoid driving or operating machinery.",adverse reaction inquiry,healthcare
+"How do I check my subscription renewal date?","Check your subscription renewal date in the ‘Subscriptions’ section of your account.",subscription renewal inquiry,finance
+"Can I get a consultation for pediatric medications?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for pediatric advice.",consultation booking,healthcare
+"What’s the dosage for this allergy nasal spray?","Use one spray per nostril daily or as directed. Consult a doctor for personalized advice.",dosage inquiry,healthcare
+"How do I cancel an order before it ships?","Cancel an order before shipping via the ‘Order Details’ section or contact support.",order cancellation inquiry,finance
+"Are your wheelchairs covered by Medicare?","Some wheelchairs are Medicare-eligible. Verify coverage at checkout or contact support.",insurance coverage inquiry,finance
+"Can I get a refund for a product I don’t like?","Non-defective products may not be refundable. Check our return policy or contact support.",refund inquiry,finance
+"What are the ingredients in this muscle relaxant?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"How do I sign up for text alerts?","Sign up for text alerts in the ‘Account Settings’ section or during checkout.",text alert signup inquiry,finance
+"Can I get a prescription filled internationally?","International prescriptions require verification. Contact our pharmacy for assistance.",international prescription inquiry,healthcare
+"What’s the benefit of this calcium supplement?","Calcium supplements support bone health. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I check my order’s estimated delivery date?","Check the estimated delivery date in your order confirmation or ‘Order Tracking’ section.",delivery date inquiry,finance
+"Can I use a promo code on a gift card purchase?","Promo codes typically don’t apply to gift card purchases. Check the code’s terms at checkout.",promo code inquiry,finance
+"What should I do if my order was delivered to the wrong address?","Contact support to report a delivery error for investigation and resolution.",wrong delivery inquiry,finance
+"How do I know if this product is cruelty-free?","Check the product page for cruelty-free certification or contact support for confirmation.",product specification inquiry,healthcare
+"Can I pay with Google Pay for my order?","Yes, Google Pay is accepted. Select it at checkout to complete your purchase.",payment method inquiry,finance
+"What’s the proper way to use a glucometer?","Follow the glucometer instructions in the product manual or consult our pharmacists.",product usage inquiry,healthcare
+"How do I check my account’s payment history?","View payment history in the ‘Billing’ section of your account.",payment history inquiry,finance
+"Can I get a prescription filled for a rare condition?","Yes, upload a valid prescription for rare conditions on our website or contact our pharmacy.",rare condition prescription inquiry,healthcare
+"What are the benefits of this iron supplement?","Iron supplements support energy and red blood cell production. See product details for benefits.",product benefits inquiry,healthcare
+"How do I opt out of text alerts?","Opt out of text alerts by texting STOP or updating your preferences in your account.",text alert opt-out inquiry,finance
+"Can I get expedited shipping for urgent medical supplies?","Select expedited shipping at checkout for faster delivery of medical supplies.",expedited shipping inquiry,finance
+"What should I do if my order was charged twice?","Contact support with your order details to resolve duplicate charges.",billing error inquiry,finance
+"Are your thermometers safe for pets?","Some thermometers are pet-safe. Check product details for recommendations.",product safety inquiry,healthcare
+"How do I verify my payment method?","Verify your payment method in the ‘Billing’ section at checkout or contact support.",payment verification inquiry,finance
+"Can I get a consultation for dietary supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for dietary advice.",consultation booking,healthcare
+"What’s the return policy for medical equipment?","Medical equipment is returnable if defective within 30 days. Check our return policy for details.",return policy inquiry,finance
+"How do I reorder my monthly supplements?","Reorder supplements via the ‘Reorder’ option in your account or set up auto-refills.",reorder inquiry,finance
+"What are the ingredients in this anti-itch cream?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"Can I pay with a money order for my order?","Money orders are not accepted. Use credit cards, PayPal, or digital wallets at checkout.",payment method inquiry,finance
+"How do I know if a product is HSA-eligible?","HSA-eligible products are marked on our website. Contact support for confirmation.",HSA eligibility inquiry,finance
+"What should I do if my medication causes dizziness?","Stop taking the medication and consult your doctor immediately if dizziness occurs.",adverse reaction inquiry,healthcare
+"How do I track my recurring deliveries?","Track recurring deliveries in the ‘Subscriptions’ section of your account or via email links.",subscription tracking inquiry,finance
+"Are your syringes covered by insurance?","Some syringes are insurance-eligible. Verify coverage at checkout or contact support.",insurance coverage inquiry,finance
+"Can I get a refund for a subscription I canceled?","Canceled subscriptions are refundable for unused periods. Contact support to process.",refund inquiry,finance
+"What’s the proper way to store epinephrine pens?","Store epinephrine pens at room temperature, away from heat. Check the label for details.",storage inquiry,healthcare
+"How do I update my shipping address?","Update your shipping address in the ‘Account Settings’ section or contact support.",shipping address update inquiry,finance
+"Can I get a discount for a group order?","Group orders may qualify for discounts. Contact our sales team for details.",group discount inquiry,finance
+"What are the side effects of this pain reliever?","Common side effects include nausea and drowsiness. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I check if a product is available for pickup?","Check pickup availability on the product page or contact our support team.",pickup availability inquiry,finance
+"Can I use a coupon on a subscription renewal?","Some coupons apply to subscription renewals. Check the coupon’s terms at checkout.",coupon code inquiry,finance
+"What’s the dosage for this decongestant spray?","Use one spray per nostril every 4-6 hours as needed. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I report a technical issue with the app?","Report app issues via the ‘Contact Us’ page or call our support line.",app issue inquiry,finance
+"Are your blood pressure monitors Bluetooth-enabled?","Some blood pressure monitors are Bluetooth-enabled. Check product specs for details.",product specification inquiry,healthcare
+"Can I get a replacement for a defective bandage?","Contact support to arrange a replacement for a defective bandage within 30 days.",product replacement inquiry,finance
+"What should I do if my order was delivered to the wrong person?","Contact support to report a misdelivery for investigation and resolution.",wrong delivery inquiry,finance
+"How do I set up a subscription for my medications?","Set up a medication subscription during checkout or in the ‘Subscriptions’ section.",subscription setup inquiry,finance
+"Can I get a consultation about drug interactions?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for interaction advice.",consultation booking,healthcare
+"What are the benefits of this magnesium supplement?","Magnesium supports muscle and nerve function. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I check my store credit balance?","Check your store credit balance in the ‘Account’ section or contact support.",store credit inquiry,finance
+"Can I get a prescription filled for a child?","Yes, upload a valid pediatric prescription on our website or contact our pharmacy.",pediatric prescription inquiry,healthcare
+"What’s the return policy for over-the-counter products?","OTC products are returnable if unopened within 30 days. Check our return policy for details.",return policy inquiry,finance
+"How do I know if this supplement is sugar-free?","Check the product page for sugar-free certification or contact support for confirmation.",product specification inquiry,healthcare
+"Can I pay with Samsung Pay for my order?","Yes, Samsung Pay is accepted. Select it at checkout to complete your purchase.",payment method inquiry,finance
+"What should I do if my nebulizer is malfunctioning?","Contact support to report a malfunctioning nebulizer for a replacement or refund.",product defect inquiry,finance
+"How do I track my reward points earnings?","Track reward points earnings in the ‘Rewards’ section of your account.",reward points inquiry,finance
+"Are your bandages eco-friendly?","Some bandages are eco-friendly. Check product details for sustainability certifications.",product specification inquiry,healthcare
+"Can I get a refund for a damaged product?","Damaged products are refundable. Contact support to initiate a return.",refund inquiry,finance
+"What’s the proper way to use a glucose meter?","Follow the glucose meter instructions in the product manual or consult a pharmacist.",product usage inquiry,healthcare
+"How do I update my emergency contact information?","Update emergency contact info in the ‘Account Settings’ section or contact support.",emergency contact update inquiry,finance
+"Can I get a discount for bulk vitamin orders?","Bulk vitamin orders may qualify for discounts. Check the ‘Promotions’ page for offers.",discount inquiry,finance
+"What are the side effects of this antibiotic?","Common side effects include diarrhea and nausea. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I check if my order is on backorder?","Check backorder status in the ‘Order Details’ section or contact support.",backorder status inquiry,finance
+"Can I use a coupon on a first-time subscription?","Some coupons apply to first-time subscriptions. Check the coupon’s terms at checkout.",coupon code inquiry,finance
+"What’s the storage requirement for this nasal spray?","Store nasal spray at room temperature, away from moisture. Check the label for details.",storage inquiry,healthcare
+"How do I report a missing item in my delivery?","Report missing items to support within 7 days for a replacement or refund.",missing item inquiry,finance
+"Are your thermometers mercury-free?","Yes, our thermometers are mercury-free. Check product details for certifications.",product certification inquiry,healthcare
+"Can I get a replacement for a damaged gift card?","Contact support with your order details to request a replacement for a damaged gift card.",gift card replacement inquiry,finance
+"What should I do if my medication causes fatigue?","If fatigue occurs, consult your doctor and monitor your symptoms.",adverse reaction inquiry,healthcare
+"How do I check my subscription cancellation status?","Check cancellation status in the ‘Subscriptions’ section of your account or contact support.",subscription cancellation inquiry,finance
+"Can I get a consultation for allergy medications?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for allergy advice.",consultation booking,healthcare
+"What’s the dosage for this sleep aid tablet?","Take one sleep aid tablet 30 minutes before bedtime or as directed. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I cancel a subscription before renewal?","Cancel a subscription before renewal in the ‘Subscriptions’ section or contact support.",subscription cancellation inquiry,finance
+"Are your walkers covered by insurance?","Some walkers are insurance-eligible. Verify coverage at checkout or contact support.",insurance coverage inquiry,finance
+"Can I get a refund for an unopened product?","Unopened products are refundable within 30 days. Contact support to initiate a return.",refund inquiry,finance
+"What are the ingredients in this burn gel?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"How do I sign up for delivery notifications?","Sign up for delivery notifications in the ‘Account Settings’ section or during checkout.",delivery notification signup inquiry,finance
+"Can I get a prescription filled for a temporary condition?","Yes, upload a valid prescription for temporary conditions on our website or contact our pharmacy.",temporary condition prescription inquiry,healthcare
+"What’s the benefit of this zinc supplement?","Zinc supports immunity and wound healing. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I check my order’s tracking number?","Find your tracking number in the order confirmation email or ‘Order Tracking’ section.",tracking number inquiry,finance
+"Can I use a promo code on a bulk order?","Some promo codes apply to bulk orders. Check the code’s terms at checkout.",promo code inquiry,finance
+"What should I do if my order was stolen?","Report a stolen order to support for investigation and potential replacement or refund.",stolen order inquiry,finance
+"How do I know if this product is fragrance-free?","Check the product page for fragrance-free certification or contact support for confirmation.",product specification inquiry,healthcare
+"Can I pay with Venmo for my order?","Venmo is not accepted. Use credit cards, PayPal, or digital wallets at checkout.",payment method inquiry,finance
+"What’s the proper way to use a heating pad?","Follow the heating pad instructions in the product manual or consult a pharmacist.",product usage inquiry,healthcare
+"How do I check my account’s transaction history?","View transaction history in the ‘Billing’ section of your account.",transaction history inquiry,finance
+"Can I get a prescription filled for a chronic condition?","Yes, upload a valid prescription for chronic conditions on our website or contact our pharmacy.",chronic condition prescription inquiry,healthcare
+"What are the benefits of this collagen supplement?","Collagen supports skin and joint health. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I opt out of delivery notifications?","Opt out of delivery notifications in the ‘Account Settings’ section or contact support.",delivery notification opt-out inquiry,finance
+"Can I get expedited shipping for medical equipment?","Select expedited shipping at checkout for faster delivery of medical equipment.",expedited shipping inquiry,finance
+"What should I do if my order was incorrectly filled?","Contact support to report an incorrectly filled order for correction or refund.",order error inquiry,finance
+"Are your bandages latex-free?","Most bandages are latex-free. Check product details for confirmation.",product allergy inquiry,healthcare
+"How do I verify my account details?","Verify account details in the ‘Account Settings’ section or contact support.",account verification inquiry,finance
+"Can I get a consultation for pain relief options?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for pain relief advice.",consultation booking,healthcare
+"What’s the return policy for prescription medications?","Prescription medications are non-returnable unless defective. Check our return policy for details.",return policy inquiry,finance
+"How do I reorder my medical devices?","Reorder medical devices via the ‘Reorder’ option in your account or set up auto-refills.",reorder inquiry,finance
+"What are the ingredients in this scar cream?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"Can I pay with a bank transfer for my order?","Bank transfers are not accepted. Use credit cards, PayPal, or digital wallets at checkout.",payment method inquiry,finance
+"How do I know if a product is vegan-friendly?","Vegan-friendly products are marked on our website. Contact support for confirmation.",product specification inquiry,healthcare
+"What should I do if my medication causes swelling?","Stop taking the medication and consult your doctor immediately if swelling occurs.",adverse reaction inquiry,healthcare
+"How do I track my order’s delivery progress?","Track delivery progress in the ‘Order Tracking’ section or via the tracking link in your email.",delivery progress inquiry,finance
+"Are your crutches covered by Medicare?","Some crutches are Medicare-eligible. Verify coverage at checkout or contact support.",insurance coverage inquiry,finance
+"Can I get a refund for a partially used product?","Partially used products are non-refundable unless defective. Contact support for details.",refund inquiry,finance
+"What’s the proper way to store contact lens solution?","Store contact lens solution at room temperature, away from heat. Check the label for details.",storage inquiry,healthcare
+"How do I update my payment preferences?","Update payment preferences in the ‘Billing’ section of your account or contact support.",payment preferences inquiry,finance
+"Can I get a discount for a corporate purchase?","Corporate purchases may qualify for discounts. Contact our sales team for details.",corporate discount inquiry,finance
+"What are the side effects of this allergy medication?","Common side effects include drowsiness and headache. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I check if my order is eligible for pickup?","Check pickup eligibility on the product page or contact our support team.",pickup eligibility inquiry,finance
+"Can I use a coupon on a medical device?","Some coupons apply to medical devices. Check the coupon’s terms at checkout.",coupon code inquiry,finance
+"What’s the dosage for this anti-fungal cream?","Apply the anti-fungal cream twice daily to the affected area. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I report a billing discrepancy?","Report billing discrepancies to support via the ‘Contact Us’ page with your order details.",billing discrepancy inquiry,finance
+"Are your thermometers waterproof?","Some thermometers are waterproof. Check product details for specific features.",product specification inquiry,healthcare
+"Can I get a replacement for a damaged thermometer?","Contact support to arrange a replacement for a damaged thermometer within 30 days.",product replacement inquiry,finance
+"What should I do if my order was lost in transit?","Report a lost order to support for investigation and potential replacement or refund.",lost order inquiry,finance
+"How do I set up auto-renewal for my subscription?","Set up auto-renewal in the ‘Subscriptions’ section during checkout or in your account.",subscription auto-renewal inquiry,finance
+"Can I get a consultation for skin care products?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for skin care advice.",consultation booking,healthcare
+"What are the benefits of this vitamin C supplement?","Vitamin C supports immunity and skin health. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I check my account balance?","Check your account balance in the ‘Billing’ section or contact support.",account balance inquiry,finance
+"Can I get a prescription filled for an elderly family member?","Yes, upload a valid prescription for an elderly family member on our website or contact our pharmacy.",family prescription inquiry,healthcare
+"What’s the return policy for dietary supplements?","Dietary supplements are returnable if unopened within 30 days. Check our return policy for details.",return policy inquiry,finance
+"How do I know if this product is hypoallergenic?","Check the product page for hypoallergenic certification or contact support for confirmation.",product specification inquiry,healthcare
+"Can I pay with a prepaid card for my order?","Yes, prepaid cards are accepted. Select the card option at checkout.",payment method inquiry,finance
+"What should I do if my glucometer is defective?","Contact support to report a defective glucometer for a replacement or refund.",product defect inquiry,finance
+"How do I track my subscription order history?","Track subscription order history in the ‘Subscriptions’ section of your account.",subscription history inquiry,finance
+"Are your bandages suitable for wet environments?","Some bandages are suitable for wet environments. Check product details for specifications.",product specification inquiry,healthcare
+"Can I get a refund for a product I ordered by mistake?","Mistaken orders may be refundable before shipping. Contact support to cancel or return.",refund inquiry,finance
+"What’s the proper way to use a wrist brace?","Follow the wrist brace instructions in the product manual or consult a pharmacist.",product usage inquiry,healthcare
+"How do I update my account security settings?","Update security settings in the ‘Account Settings’ section or contact support.",security settings inquiry,finance
+"Can I get a discount for bulk medical device orders?","Bulk medical device orders may qualify for discounts. Check the ‘Promotions’ page for offers.",discount inquiry,finance
+"What are the side effects of this cholesterol medication?","Common side effects include muscle pain and fatigue. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I check if my order is ready for pickup?","Check pickup status in the ‘Order Details’ section or contact our support team.",pickup status inquiry,finance
+"Can I use a coupon on a subscription order?","Some coupons apply to subscription orders. Check the coupon’s terms at checkout.",coupon code inquiry,finance
+"What’s the dosage for this pain relief gel?","Apply a thin layer of pain relief gel to the affected area up to 3 times daily. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I report a missing delivery confirmation?","Report a missing delivery confirmation to support via the ‘Contact Us’ page.",delivery confirmation inquiry,finance
+"Are your thermometers suitable for children?","Some thermometers are suitable for children. Check product details for age recommendations.",product specification inquiry,healthcare
+"Can I get a replacement for a damaged bandage?","Contact support to arrange a replacement for a damaged bandage within 30 days.",product replacement inquiry,finance
+"What should I do if my medication causes a headache?","If a headache occurs, consult your doctor and monitor your symptoms.",adverse reaction inquiry,healthcare
+"How do I check my account’s subscription preferences?","Check subscription preferences in the ‘Subscriptions’ section of your account.",subscription preferences inquiry,finance
+"Can I get a consultation for joint health supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for joint health advice.",consultation booking,healthcare
+"What are the benefits of this probiotic capsule?","Probiotics support digestive health and immunity. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I check my order’s return eligibility?","Check return eligibility in the ‘Returns’ section or contact support with your order details.",return eligibility inquiry,finance
+"Can I pay with a corporate card for my order?","Yes, corporate cards are accepted. Select the card option at checkout.",payment method inquiry,finance
+"What’s the proper way to store a nebulizer solution?","Store nebulizer solutions at room temperature, away from heat. Check the label for details.",storage inquiry,healthcare
+"How do I update my account’s notification settings?","Update notification settings in the ‘Account Settings’ section or contact support.",notification settings inquiry,finance
+"Can I get a discount for a recurring supplement order?","Recurring supplement orders may qualify for discounts. Check the ‘Subscriptions’ page for offers.",recurring discount inquiry,finance
+"What are the side effects of this blood pressure medication?","Common side effects include dizziness and fatigue. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I check my order’s shipping status?","Check shipping status in the ‘Order Tracking’ section or your order confirmation email.",shipping status inquiry,finance
+"Can I use a coupon on a clearance product?","Some coupons apply to clearance products. Check the coupon’s terms at checkout.",coupon code inquiry,finance
+"What’s the dosage for this antihistamine tablet?","Take one antihistamine tablet daily or as directed. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I report a defective thermometer?","Report defective thermometers to support via the ‘Contact Us’ page for a replacement or refund.",defective product inquiry,finance
+"Are your bandages suitable for sensitive skin?","Some bandages are suitable for sensitive skin. Check product details for specifications.",product specification inquiry,healthcare
+"Can I get a refund for a product I received late?","Late deliveries may be refundable. Contact support with your order details.",refund inquiry,finance
+"What should I do if my medication causes nausea?","If nausea occurs, consult your doctor and consider taking the medication with food.",adverse reaction inquiry,healthcare
+"How do I check my account’s gift card balance?","Check gift card balance in the ‘Gift Cards’ section of your account.",gift card balance inquiry,finance
+"Can I get a consultation for digestive health supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for digestive health advice.",consultation booking,healthcare
+"What are the side effects of this diabetes medication?","Common side effects include nausea and low blood sugar. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I update my account’s billing preferences?","Update billing preferences in the ‘Billing’ section of your account or contact support.",billing preferences inquiry,finance
+"Can I get a discount for a bulk supplement order?","Bulk supplement orders may qualify for discounts. Check the ‘Promotions’ page for offers.",bulk discount inquiry,finance
+"What’s the proper way to store a glucometer?","Store glucometers in a cool, dry place. Check the product manual for specific instructions.",storage inquiry,healthcare
+"How do I check my order’s delivery history?","Check delivery history in the ‘Order Tracking’ section or your order confirmation email.",delivery history inquiry,finance
+"Can I pay with a debit card for my order?","Yes, debit cards are accepted. Select the card option at checkout.",payment method inquiry,finance
+"What’s the benefit of this omega-3 supplement?","Omega-3 supports heart and brain health. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I report a missing order confirmation?","Report a missing order confirmation to support via the ‘Contact Us’ page.",order confirmation inquiry,finance
+"Can I get a prescription filled for a mental health condition?","Yes, upload a valid prescription for mental health conditions on our website or contact our pharmacy.",mental health prescription inquiry,healthcare
+"What should I do if my medication causes constipation?","If constipation occurs, consult your doctor and increase fluid intake.",adverse reaction inquiry,healthcare
+"How do I check my account’s subscription status?","Check subscription status in the ‘Subscriptions’ section of your account.",subscription status inquiry,finance
+"Can I get a discount for a recurring medical supply order?","Recurring medical supply orders may qualify for discounts. Check the ‘Subscriptions’ page for offers.",recurring discount inquiry,finance
+"What’s the proper way to use a shoulder brace?","Follow the shoulder brace instructions in the product manual or consult a pharmacist.",product usage inquiry,healthcare
+"How do I update my account’s phone number?","Update your phone number in the ‘Account Settings’ section or contact support.",phone number inquiry,finance
+"Can I get a consultation for brain health supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for brain health advice.",consultation booking,healthcare
+"What are the ingredients in this antifungal powder?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"How do I check my order’s delivery status?","Check delivery status in the ‘Order Tracking’ section or your order confirmation email.",delivery status inquiry,finance
+"Can I pay with a gift card for my order?","Yes, gift cards are accepted. Enter the card details at checkout.",payment method inquiry,finance
+"What’s the dosage for this pain relief patch?","Apply one pain relief patch to the affected area for up to 12 hours. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I report a defective glucometer?","Report defective glucometers to support via the ‘Contact Us’ page for a replacement or refund.",defective product inquiry,finance
+"Are your thermometers suitable for children?","Some thermometers are suitable for children. Check product details for age recommendations.",product specification inquiry,healthcare
+"Can I get a refund for a product I received damaged?","Damaged products are refundable. Contact support to initiate a return.",refund inquiry,finance
+"What should I do if my medication causes insomnia?","If insomnia occurs, consult your doctor and monitor your symptoms.",adverse reaction inquiry,healthcare
+"How do I check my account’s gift card history?","Check gift card history in the ‘Gift Cards’ section of your account.",gift card history inquiry,finance
+"Can I get a consultation for digestive supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for digestive supplement advice.",consultation booking,healthcare
+"What are the side effects of this cholesterol medication?","Common side effects include muscle pain and nausea. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I update my account’s billing preferences?","Update billing preferences in the ‘Billing’ section of your account or contact support.",billing preferences inquiry,finance
+"Can I get a discount for a bulk bandage order?","Bulk bandage orders may qualify for discounts. Check the ‘Promotions’ page for offers.",bulk discount inquiry,finance
+"What’s the proper way to store a blood pressure monitor?","Store blood pressure monitors in a cool, dry place. Check the product manual for specific instructions.",storage inquiry,healthcare
+"How do I check my order’s return eligibility?","Check return eligibility in the ‘Returns’ section or contact support with your order details.",return eligibility inquiry,finance
+"Can I pay with a debit card for my order?","Yes, debit cards are accepted. Select the card option at checkout.",payment method inquiry,finance
+"What’s the benefit of this vitamin C supplement?","Vitamin C supports immunity and skin health. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I report a missing order confirmation?","Report a missing order confirmation to support via the ‘Contact Us’ page.",order confirmation inquiry,finance
+"Can I get a prescription filled for a neurological condition?","Yes, upload a valid prescription for neurological conditions on our website or contact our pharmacy.",neurological condition prescription inquiry,healthcare
+"What should I do if my medication causes a fever?","If a fever occurs, stop taking the medication and consult your doctor immediately.",adverse reaction inquiry,healthcare
+"How do I check my account’s subscription balance?","Check subscription balance in the ‘Subscriptions’ section of your account.",subscription balance inquiry,finance
+"Can I get a discount for a recurring medical device order?","Recurring medical device orders may qualify for discounts. Check the ‘Subscriptions’ page for offers.",recurring discount inquiry,finance
+"What’s the proper way to use a back brace?","Follow the back brace instructions in the product manual or consult a pharmacist.",product usage inquiry,healthcare
+"How do I update my account’s email address?","Update your email address in the ‘Account Settings’ section or contact support.",email address inquiry,finance
+"Can I get a consultation for energy supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for energy supplement advice.",consultation booking,healthcare
+"What are the ingredients in this anti-itch ointment?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"How do I check my order’s shipping history?","Check shipping history in the ‘Order Tracking’ section or your order confirmation email.",shipping history inquiry,finance
+"Can I pay with a credit card for my order?","Yes, credit cards are accepted. Select the card option at checkout.",payment method inquiry,finance
+"What’s the dosage for this decongestant tablet?","Take one decongestant tablet every 4-6 hours as needed. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I report a defective bandage?","Report defective bandages to support via the ‘Contact Us’ page for a replacement or refund.",defective product inquiry,finance
+"Are your thermometers suitable for pets?","Some thermometers are suitable for pets. Check product details for recommendations.",product specification inquiry,healthcare
+"Can I get a refund for a product I ordered twice?","Duplicate orders may be refundable before shipping. Contact support to cancel or return.",refund inquiry,finance
+"What should I do if my medication causes anxiety?","If anxiety occurs, consult your doctor and monitor your symptoms.",adverse reaction inquiry,healthcare
+"How do I check my account’s reward points balance?","Check reward points balance in the ‘Rewards’ section of your account.",reward points balance inquiry,finance
+"Can I get a consultation for stress relief supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for stress relief advice.",consultation booking,healthcare
+"What are the side effects of this thyroid medication?","Common side effects include weight changes and fatigue. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I update my account’s phone number?","Update your phone number in the ‘Account Settings’ section or contact support.",phone number inquiry,finance
+"Can I get a discount for a bulk thermometer order?","Bulk thermometer orders may qualify for discounts. Check the ‘Promotions’ page for offers.",bulk discount inquiry,finance
+"What’s the proper way to store a nebulizer?","Store nebulizers in a cool, dry place. Check the product manual for specific instructions.",storage inquiry,healthcare
+"How do I check my order’s delivery preferences?","Check delivery preferences in the ‘Order Details’ section or contact support.",delivery preferences inquiry,finance
+"Can I pay with PayPal for my order?","Yes, PayPal is accepted. Select it at checkout to complete your purchase.",payment method inquiry,finance
+"What’s the benefit of this zinc supplement?","Zinc supports immunity and wound healing. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I report a missing payment confirmation?","Report a missing payment confirmation to support via the ‘Contact Us’ page.",payment confirmation inquiry,finance
+"Can I get a prescription filled for a gastrointestinal condition?","Yes, upload a valid prescription for gastrointestinal conditions on our website or contact our pharmacy.",gastrointestinal condition prescription inquiry,healthcare
+"What should I do if my medication causes diarrhea?","If diarrhea occurs, consult your doctor and stay hydrated.",adverse reaction inquiry,healthcare
+"How do I check my account’s order status?","Check order status in the ‘Order Tracking’ section of your account.",order status inquiry,finance
+"Can I get a discount for a recurring bandage order?","Recurring bandage orders may qualify for discounts. Check the ‘Subscriptions’ page for offers.",recurring discount inquiry,finance
+"What’s the proper way to use a wrist splint?","Follow the wrist splint instructions in the product manual or consult a pharmacist.",product usage inquiry,healthcare
+"How do I update my account’s billing address?","Update your billing address in the ‘Account Settings’ section or contact support.",billing address inquiry,finance
+"Can I get a consultation for sleep supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for sleep supplement advice.",consultation booking,healthcare
+"What are the ingredients in this muscle rub?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"How do I check my order’s return history?","Check return history in the ‘Returns’ section of your account.",return history inquiry,finance
+"Can I pay with a gift card for my order?","Yes, gift cards are accepted. Enter the card details at checkout.",payment method inquiry,finance
+"What’s the dosage for this antacid tablet?","Take one antacid tablet as needed, up to 4 times daily. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I report a defective thermometer?","Report defective thermometers to support via the ‘Contact Us’ page for a replacement or refund.",defective product inquiry,finance
+"Are your bandages suitable for children?","Some bandages are suitable for children. Check product details for age recommendations.",product specification inquiry,healthcare
+"Can I get a refund for a product I received late?","Late deliveries may be refundable. Contact support with your order details.",refund inquiry,finance
+"What should I do if my medication causes a cough?","If a cough occurs, consult your doctor and monitor your symptoms.",adverse reaction inquiry,healthcare
+"How do I check my account’s gift card balance?","Check gift card balance in the ‘Gift Cards’ section of your account.",gift card balance inquiry,finance
+"Can I get a consultation for mood support supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for mood support advice.",consultation booking,healthcare
+"What are the side effects of this diabetes medication?","Common side effects include nausea and low blood sugar. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I update my account’s email address?","Update your email address in the ‘Account Settings’ section or contact support.",email address inquiry,finance
+"Can I get a discount for a bulk supplement order?","Bulk supplement orders may qualify for discounts. Check the ‘Promotions’ page for offers.",bulk discount inquiry,finance
+"What’s the proper way to store a glucometer?","Store glucometers in a cool, dry place. Check the product manual for specific instructions.",storage inquiry,healthcare
+"How do I check my order’s shipping status?","Check shipping status in the ‘Order Tracking’ section or your order confirmation email.",shipping status inquiry,finance
+"Can I pay with a debit card for my order?","Yes, debit cards are accepted. Select the card option at checkout.",payment method inquiry,finance
+"What’s the benefit of this omega-3 supplement?","Omega-3 supports heart and brain health. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I report a missing delivery confirmation?","Report a missing delivery confirmation to support via the ‘Contact Us’ page.",delivery confirmation inquiry,finance
+"Can I get a prescription filled for a hormonal condition?","Yes, upload a valid prescription for hormonal conditions on our website or contact our pharmacy.",hormonal condition prescription inquiry,healthcare
+"What should I do if my medication causes constipation?","If constipation occurs, consult your doctor and increase fluid intake.",adverse reaction inquiry,healthcare
+"How do I check my account’s subscription status?","Check subscription status in the ‘Subscriptions’ section of your account.",subscription status inquiry,finance
+"Can I get a discount for a recurring medical supply order?","Recurring medical supply orders may qualify for discounts. Check the ‘Subscriptions’ page for offers.",recurring discount inquiry,finance
+"What’s the proper way to use a shoulder brace?","Follow the shoulder brace instructions in the product manual or consult a pharmacist.",product usage inquiry,healthcare
+"How do I update my account’s phone number?","Update your phone number in the ‘Account Settings’ section or contact support.",phone number inquiry,finance
+"Can I get a consultation for brain health supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for brain health advice.",consultation booking,healthcare
+"What are the ingredients in this antifungal powder?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"How do I check my order’s delivery status?","Check delivery status in the ‘Order Tracking’ section or your order confirmation email.",delivery status inquiry,finance
+"Can I pay with a gift card for my order?","Yes, gift cards are accepted. Enter the card details at checkout.",payment method inquiry,finance
+"What’s the dosage for this pain relief patch?","Apply one pain relief patch to the affected area for up to 12 hours. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I report a defective glucometer?","Report defective glucometers to support via the ‘Contact Us’ page for a replacement or refund.",defective product inquiry,finance
+"Are your thermometers suitable for children?","Some thermometers are suitable for children. Check product details for age recommendations.",product specification inquiry,healthcare
+"Can I get a refund for a product I received damaged?","Damaged products are refundable. Contact support to initiate a return.",refund inquiry,finance
+"What should I do if my medication causes insomnia?","If insomnia occurs, consult your doctor and monitor your symptoms.",adverse reaction inquiry,healthcare
+"How do I check my account’s gift card history?","Check gift card history in the ‘Gift Cards’ section of your account.",gift card history inquiry,finance
+"Can I get a consultation for digestive supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for digestive supplement advice.",consultation booking,healthcare
+"What are the side effects of this cholesterol medication?","Common side effects include muscle pain and nausea. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I update my account’s billing preferences?","Update billing preferences in the ‘Billing’ section of your account or contact support.",billing preferences inquiry,finance
+"Can I get a discount for a bulk bandage order?","Bulk bandage orders may qualify for discounts. Check the ‘Promotions’ page for offers.",bulk discount inquiry,finance
+"What’s the proper way to store a blood pressure monitor?","Store blood pressure monitors in a cool, dry place. Check the product manual for specific instructions.",storage inquiry,healthcare
+"How do I check my order’s return eligibility?","Check return eligibility in the ‘Returns’ section or contact support with your order details.",return eligibility inquiry,finance
+"Can I pay with a debit card for my order?","Yes, debit cards are accepted. Select the card option at checkout.",payment method inquiry,finance
+"What’s the benefit of this vitamin C supplement?","Vitamin C supports immunity and skin health. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I report a missing order confirmation?","Report a missing order confirmation to support via the ‘Contact Us’ page.",order confirmation inquiry,finance
+"Can I get a prescription filled for a neurological condition?","Yes, upload a valid prescription for neurological conditions on our website or contact our pharmacy.",neurological condition prescription inquiry,healthcare
+"What should I do if my medication causes a fever?","If a fever occurs, stop taking the medication and consult your doctor immediately.",adverse reaction inquiry,healthcare
+"How do I check my account’s subscription balance?","Check subscription balance in the ‘Subscriptions’ section of your account.",subscription balance inquiry,finance
+"Can I get a discount for a recurring medical device order?","Recurring medical device orders may qualify for discounts. Check the ‘Subscriptions’ page for offers.",recurring discount inquiry,finance
+"What’s the proper way to use a back brace?","Follow the back brace instructions in the product manual or consult a pharmacist.",product usage inquiry,healthcare
+"How do I update my account’s email address?","Update your email address in the ‘Account Settings’ section or contact support.",email address inquiry,finance
+"Can I get a consultation for energy supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for energy supplement advice.",consultation booking,healthcare
+"What are the ingredients in this anti-itch ointment?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"How do I check my order’s shipping history?","Check shipping history in the ‘Order Tracking’ section or your order confirmation email.",shipping history inquiry,finance
+"Can I pay with a credit card for my order?","Yes, credit cards are accepted. Select the card option at checkout.",payment method inquiry,finance
+"What’s the dosage for this decongestant tablet?","Take one decongestant tablet every 4-6 hours as needed. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I report a defective bandage?","Report defective bandages to support via the ‘Contact Us’ page for a replacement or refund.",defective product inquiry,finance
+"Are your thermometers suitable for pets?","Some thermometers are suitable for pets. Check product details for recommendations.",product specification inquiry,healthcare
+"Can I get a refund for a product I ordered twice?","Duplicate orders may be refundable before shipping. Contact support to cancel or return.",refund inquiry,finance
+"What should I do if my medication causes anxiety?","If anxiety occurs, consult your doctor and monitor your symptoms.",adverse reaction inquiry,healthcare
+"How do I check my account’s reward points balance?","Check reward points balance in the ‘Rewards’ section of your account.",reward points balance inquiry,finance
+"Can I get a consultation for stress relief supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for stress relief advice.",consultation booking,healthcare
+"What are the side effects of this thyroid medication?","Common side effects include weight changes and fatigue. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I update my account’s phone number?","Update your phone number in the ‘Account Settings’ section or contact support.",phone number inquiry,finance
+"Can I get a discount for a bulk thermometer order?","Bulk thermometer orders may qualify for discounts. Check the ‘Promotions’ page for offers.",bulk discount inquiry,finance
+"What’s the proper way to store a nebulizer?","Store nebulizers in a cool, dry place. Check the product manual for specific instructions.",storage inquiry,healthcare
+"How do I check my order’s delivery preferences?","Check delivery preferences in the ‘Order Details’ section or contact support.",delivery preferences inquiry,finance
+"Can I pay with PayPal for my order?","Yes, PayPal is accepted. Select it at checkout to complete your purchase.",payment method inquiry,finance
+"What’s the benefit of this zinc supplement?","Zinc supports immunity and wound healing. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I report a missing payment confirmation?","Report a missing payment confirmation to support via the ‘Contact Us’ page.",payment confirmation inquiry,finance
+"Can I get a prescription filled for a gastrointestinal condition?","Yes, upload a valid prescription for gastrointestinal conditions on our website or contact our pharmacy.",gastrointestinal condition prescription inquiry,healthcare
+"What should I do if my medication causes diarrhea?","If diarrhea occurs, consult your doctor and stay hydrated.",adverse reaction inquiry,healthcare
+"How do I check my account’s order status?","Check order status in the ‘Order Tracking’ section of your account.",order status inquiry,finance
+"Can I get a discount for a recurring bandage order?","Recurring bandage orders may qualify for discounts. Check the ‘Subscriptions’ page for offers.",recurring discount inquiry,finance
+"What’s the proper way to use a wrist splint?","Follow the wrist splint instructions in the product manual or consult a pharmacist.",product usage inquiry,healthcare
+"How do I update my account’s billing address?","Update your billing address in the ‘Account Settings’ section or contact support.",billing address inquiry,finance
+"Can I get a consultation for sleep supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for sleep supplement advice.",consultation booking,healthcare
+"What are the ingredients in this muscle rub?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"How do I check my order’s return history?","Check return history in the ‘Returns’ section of your account.",return history inquiry,finance
+"Can I pay with a gift card for my order?","Yes, gift cards are accepted. Enter the card details at checkout.",payment method inquiry,finance
+"What’s the dosage for this antacid tablet?","Take one antacid tablet as needed, up to 4 times daily. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I report a defective thermometer?","Report defective thermometers to support via the ‘Contact Us’ page for a replacement or refund.",defective product inquiry,finance
+"Are your bandages suitable for children?","Some bandages are suitable for children. Check product details for age recommendations.",product specification inquiry,healthcare
+"Can I get a refund for a product I received late?","Late deliveries may be refundable. Contact support with your order details.",refund inquiry,finance
+"What should I do if my medication causes a cough?","If a cough occurs, consult your doctor and monitor your symptoms.",adverse reaction inquiry,healthcare
+"How do I check my account’s gift card balance?","Check gift card balance in the ‘Gift Cards’ section of your account.",gift card balance inquiry,finance
+"Can I get a consultation for mood support supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for mood support advice.",consultation booking,healthcare
+"What are the side effects of this diabetes medication?","Common side effects include nausea and low blood sugar. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I update my account’s email address?","Update your email address in the ‘Account Settings’ section or contact support.",email address inquiry,finance
+"Can I get a discount for a bulk supplement order?","Bulk supplement orders may qualify for discounts. Check the ‘Promotions’ page for offers.",bulk discount inquiry,finance
+"What’s the proper way to store a glucometer?","Store glucometers in a cool, dry place. Check the product manual for specific instructions.",storage inquiry,healthcare
+"How do I check my order’s shipping status?","Check shipping status in the ‘Order Tracking’ section or your order confirmation email.",shipping status inquiry,finance
+"Can I pay with a debit card for my order?","Yes, debit cards are accepted. Select the card option at checkout.",payment method inquiry,finance
+"What’s the benefit of this omega-3 supplement?","Omega-3 supports heart and brain health. See product details for specific benefits.",product benefits inquiry,healthcare
+"How do I report a missing delivery confirmation?","Report a missing delivery confirmation to support via the ‘Contact Us’ page.",delivery confirmation inquiry,finance
+"Can I get a prescription filled for a hormonal condition?","Yes, upload a valid prescription for hormonal conditions on our website or contact our pharmacy.",hormonal condition prescription inquiry,healthcare
+"What should I do if my medication causes constipation?","If constipation occurs, consult your doctor and increase fluid intake.",adverse reaction inquiry,healthcare
+"How do I check my account’s subscription status?","Check subscription status in the ‘Subscriptions’ section of your account.",subscription status inquiry,finance
+"Can I get a discount for a recurring medical supply order?","Recurring medical supply orders may qualify for discounts. Check the ‘Subscriptions’ page for offers.",recurring discount inquiry,finance
+"What’s the proper way to use a shoulder brace?","Follow the shoulder brace instructions in the product manual or consult a pharmacist.",product usage inquiry,healthcare
+"How do I update my account’s phone number?","Update your phone number in the ‘Account Settings’ section or contact support.",phone number inquiry,finance
+"Can I get a consultation for brain health supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for brain health advice.",consultation booking,healthcare
+"What are the ingredients in this antifungal powder?","Check the product page for a full ingredient list or contact our pharmacy team.",ingredient inquiry,healthcare
+"How do I check my order’s delivery status?","Check delivery status in the ‘Order Tracking’ section or your order confirmation email.",delivery status inquiry,finance
+"Can I pay with a gift card for my order?","Yes, gift cards are accepted. Enter the card details at checkout.",payment method inquiry,finance
+"What’s the dosage for this pain relief patch?","Apply one pain relief patch to the affected area for up to 12 hours. Consult a doctor for prolonged use.",dosage inquiry,healthcare
+"How do I report a defective glucometer?","Report defective glucometers to support via the ‘Contact Us’ page for a replacement or refund.",defective product inquiry,finance
+"Are your thermometers suitable for children?","Some thermometers are suitable for children. Check product details for age recommendations.",product specification inquiry,healthcare
+"Can I get a refund for a product I received damaged?","Damaged products are refundable. Contact support to initiate a return.",refund inquiry,finance
+"What should I do if my medication causes insomnia?","If insomnia occurs, consult your doctor and monitor your symptoms.",adverse reaction inquiry,healthcare
+"How do I check my account’s gift card history?","Check gift card history in the ‘Gift Cards’ section of your account.",gift card history inquiry,finance
+"Can I get a consultation for digestive supplements?","Schedule a consultation with our pharmacists via the ‘Consultations’ page for digestive supplement advice.",consultation booking,healthcare
+"What are the side effects of this cholesterol medication?","Common side effects include muscle pain and nausea. Consult your doctor if severe.",side effects inquiry,healthcare
+"How do I update my account’s billing preferences?","Update billing preferences in the ‘Billing’ section of your account or contact support.",billing preferences inquiry,finance
